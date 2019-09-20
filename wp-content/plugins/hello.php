@@ -14,33 +14,57 @@ Author URI: http://ma.tt/
 
 function hello_dolly_get_lyric() {
 	/** These are the lyrics to Hello Dolly */
-	$lyrics = "Hello, Dolly
-Well, hello, Dolly
-It's so nice to have you back where you belong
-You're lookin' swell, Dolly
-I can tell, Dolly
-You're still glowin', you're still crowin'
-You're still goin' strong
-I feel the room swayin'
-While the band's playin'
-One of our old favorite songs from way back when
-So, take her wrap, fellas
-Dolly, never go away again
-Hello, Dolly
-Well, hello, Dolly
-It's so nice to have you back where you belong
-You're lookin' swell, Dolly
-I can tell, Dolly
-You're still glowin', you're still crowin'
-You're still goin' strong
-I feel the room swayin'
-While the band's playin'
-One of our old favorite songs from way back when
-So, golly, gee, fellas
-Have a little faith in me, fellas
-Dolly, never go away
-Promise, you'll never go away
-Dolly'll never go away again";
+	$lyrics = "If Rain is What You Want - Slipknot
+It's been years since anyone
+Could be a friend
+It's the fear that kills the feeling
+In the end
+Can we face it?
+Can we shape it?
+Can we really die?
+If rain is what you want
+All you have to do is close your eyes
+Just close your eyes
+I have watched your resurrection
+Start to crawl
+Is there any chance in hell? (Any chance in hell?)
+Any chance at all?
+Do we need it? Do we see it?
+Is it really there?
+If rain is what you want
+Then take your seats
+Enjoy the fall
+Enjoy the fall
+The only thing deeper than my last breath
+The only thing darker than my last death
+Is the panic, the static
+I've come back from the dead
+For my solace
+We'll never sleep again
+In these diamonds
+We're left with colored glass
+As pressure takes its toll
+We will outlast
+But you can't break my heart
+As long as I can be myself
+I'll never fall apart
+And you can't take me in
+If I'm not broken, break me down
+So I will never feel alone again
+The only thing deeper than my last breath
+The only thing darker than my last death
+Is the panic, the static
+I've come back from the dead
+For my solace
+We'll never sleep again
+My solace
+We'll never sleep again
+My solace
+We'll never sleep again
+My solace
+We'll never sleep again
+My solace
+We'll never sleep again";
 
 	// Here we split it into lines.
 	$lyrics = explode( "\n", $lyrics );
